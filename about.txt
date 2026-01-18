@@ -1,6 +1,6 @@
-About MonApp
+iAbout MonApp
 ============
 
 Cette application est un TP Git & GitHub.
-Auteur : Ayoub
+Auteur : Ayoub Barhoum
 
